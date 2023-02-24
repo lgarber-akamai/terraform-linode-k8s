@@ -4,7 +4,7 @@ variable "ubuntu_version" {
 }
 
 variable "cni_version" {
-  default     = "v0.8.7"
+    default     = "v0.8.7"
   description = "Container Network Plugin Version"
 }
 
